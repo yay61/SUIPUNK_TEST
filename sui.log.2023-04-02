@@ -1,0 +1,14 @@
+2023-04-02T13:59:48.764412Z  INFO sui::client_commands: Showing 1 results.
+2023-04-02T13:59:48.764498Z  INFO sui::client_commands: 0xf18e6ff5f2dd88de81a4ad82e5e34ecfde8553a9e0ed1d70440eaec703931cb7 <=
+2023-04-02T14:13:19.013641Z  INFO sui::client_commands: Added new Sui env [devnet] to config.
+2023-04-02T14:13:55.335320Z  INFO sui::client_commands: Active environment switched to [devnet]
+2023-04-02T14:14:00.448678Z  INFO sui::client_commands: Showing 1 results.
+2023-04-02T14:14:00.448854Z  INFO sui::client_commands: 0xf18e6ff5f2dd88de81a4ad82e5e34ecfde8553a9e0ed1d70440eaec703931cb7 <=
+2023-04-02T14:15:41.633449Z  WARN sui::client_commands: Client/Server api version mismatch, client api version : 0.29.1, server api version : 0.29.2
+2023-04-02T14:15:59.735414Z  WARN sui::client_commands: Client/Server api version mismatch, client api version : 0.29.1, server api version : 0.29.2
+2023-04-02T14:16:14.081684Z  WARN sui::client_commands: Client/Server api version mismatch, client api version : 0.29.1, server api version : 0.29.2
+2023-04-02T14:16:20.730246Z  WARN sui::client_commands: Client/Server api version mismatch, client api version : 0.29.1, server api version : 0.29.2
+2023-04-02T14:16:45.988873Z  WARN sui::client_commands: Client/Server api version mismatch, client api version : 0.29.1, server api version : 0.29.2
+2023-04-02T14:17:28.613864Z  WARN sui::client_commands: Client/Server api version mismatch, client api version : 0.29.1, server api version : 0.29.2
+2023-04-02T14:18:30.190715Z  WARN sui::client_commands: Client/Server api version mismatch, client api version : 0.29.1, server api version : 0.29.2
+2023-04-02T14:31:08.556016Z  WARN sui::client_commands: Client/Server api version mismatch, client api version : 0.29.1, server api version : 0.29.2
